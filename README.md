@@ -1,8 +1,8 @@
 <!-- Animated Header Banner -->
 <img src="https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Ahmad Junaid" width="100%" />
 
-<h1 align="center">Hi 👋, I'm <span style="color:#ff6600;">Ahmad Junaid</span></h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from Pakistan</h3>
+<h1 align="center">Hi, I'm <span style="color:#ff6600;">Ahmad Junaid</span></h1>
+<h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Web+Developer;MERN+%7C+Laravel+%7C+Next.js;JavaScript+%7C+TypeScript+Enthusiast;Lifelong+Learner+%7C+Tech+Explorer" />
@@ -12,15 +12,15 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 Currently learning **Laravel**
-- 💬 Ask me about **Full Stack Web Development, APIs, and JavaScript Frameworks**
-- 📫 Reach me at **ahmadjunaid4210@gmail.com**
-- ⚡ Fun fact: *I code faster when I drink coffee ☕*
+## About Me
+- Currently learning **Laravel**
+- Ask me about **Full Stack Web Development, APIs, and JavaScript Frameworks**
+- Reach me at **ahmadjunaid4210@gmail.com**
+- Fun fact **I code faster when I drink coffee**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="left">
 <a href="https://fb.com/ahmadjunaid" target="_blank">
   <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
@@ -35,9 +35,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
@@ -48,7 +48,7 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub"/>
 </p>
 
-### ⚙ Backend
+### Backend
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" height="40" alt="Laravel"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/>
@@ -61,20 +61,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjunaid56&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadjunaid56&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmadjunaid56&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
 ---
 
-## 🎯 Fun Badges
+## Fun Badges
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmadjunaid56&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Code%20Lover-%E2%9D%A4-red?style=flat"/>
@@ -83,7 +80,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/AhmedFathyDev/AhmedFathyDev/blob/main/GitHub.gif" alt="Coding" width="500"/>
-</p>
